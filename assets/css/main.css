@@ -147,7 +147,7 @@ li{
 }
 
 .nav-link {
-    font-family: 'The Historia Demo', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 5rem;
     padding: 1rem;
 }
@@ -445,6 +445,16 @@ li{
     height: 1.5rem;
     width: 1.5rem;
     background-color: #005f75;
+}
+
+.resume {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+#pdf {
+    font-size: 3rem;
 }
 /* End Experience */
 
