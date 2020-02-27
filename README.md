@@ -1,11 +1,11 @@
 ![Issues](https://img.shields.io/github/issues/clauries/portfolio-website)  ![Forks](https://img.shields.io/github/forks/clauries/portfolio-website)  ![Stars](https://img.shields.io/github/stars/clauries/portfolio-website)  ![License](https://img.shields.io/github/license/clauries/portfolio-website)  [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fclauries%2Fportfolio-website)
 
 # Portfolio
-An new layout format of my portfolio utilizing the AOS css animation framework. This project will also hosted outside of github to expand my knowledge of hosting processes. 
-
-### [Deployed Webpage](https://clauries.github.io/portfolio-website/) 
+An new layout format of my portfolio utilizing the AOS css animation framework. This project will also hosted outside of github to expand my knowledge of hosting processes.  
 
 <img src="./assets/imgs/portfolio.png" alt="Webpage Image"/>
+
+### [Deployed Webpage](https://clauries.github.io/portfolio-website/)
 
 
 ## Concept
