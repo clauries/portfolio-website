@@ -29,6 +29,7 @@ SO THAT potential employers, mentors, and teammates can find me and review my wo
 ## Credits
 * Responsive layout and instruction on utilizing AOS was adapted from a youtube tutorial by Julio Codes over 2 videos. Check them out [video 1](https://youtu.be/T7PnWnTgusc) for layout and [video 2](https://youtu.be/inCl01EJkts) for AOS animation.
 * AOS animations is an open source css framework. Please check it out [here](https://bit.ly/2EDiVLl)
+* Color Palette was curated by [Color Palettes](https://colorpalettes.net/color-palette-971/).
 
 ## License
 

@@ -418,11 +418,12 @@ li{
     opacity: .3;
 }
 
+/*not in tutorial*/
 .timeline p {
     margin-bottom: 1.5rem;
 }
 
-.timeline date {
+.timeline .date {
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     margin-bottom: 1rem;
     padding-bottom: 1rem;
