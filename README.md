@@ -1,11 +1,12 @@
 ![Issues](https://img.shields.io/github/issues/clauries/portfolio-website)  ![Forks](https://img.shields.io/github/forks/clauries/portfolio-website)  ![Stars](https://img.shields.io/github/stars/clauries/portfolio-website)  ![License](https://img.shields.io/github/license/clauries/portfolio-website)  [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fclauries%2Fportfolio-website)
 
 # Portfolio
-An new layout format of my portfolio utilizing the AOS css animation framework. This project is also hosted outside of github to expand my knowledge of hosting requirements. 
+An new layout format of my portfolio utilizing the AOS css animation framework. This project will also hosted outside of github to expand my knowledge of hosting processes. 
+
+### [Deployed Webpage](https://clauries.github.io/portfolio-website/) 
 
 <img src="./assets/imgs/portfolio.png" alt="Webpage Image"/>
 
-#### [Deployed Webpage](https://clauries.github.io/portfolio-website/) 
 
 ## Concept
 AS a bootcamp graduate,
@@ -23,13 +24,13 @@ SO THAT potential employers, mentors, and teammates can find me and review my wo
 ## Future Development
 * Deployment to personal website.
 * Additional animation components.
-* Utilize another CSS framework (such as Materialize) to create cards in place of the images in the portfolio section. Front of cards will be images. These cards will be animated to flip as a mouse moves over them revealing a description and the links. 
+* Utilize another CSS framework to create cards in place of the images in the portfolio section. Front of cards will be images. These cards will be animated to flip as a mouse moves over them revealing a description and the links. 
 * Utilize another animation framework to develop animation in header where there is some additional space. Design/animation to be determined.
 
 ## Credits
-* Responsive layout and instruction on utilizing AOS was adapted from a youtube tutorial by Julio Codes over 2 videos. Check them out [video 1](https://youtu.be/T7PnWnTgusc) for layout and [video 2](https://youtu.be/inCl01EJkts) for AOS animation.
-* AOS animations is an open source css framework. Please check it out [here](https://bit.ly/2EDiVLl)
-* Color Palette was curated by [Color Palettes](https://colorpalettes.net/color-palette-971/).
+* Responsive layout and instruction on utilizing AOS was adapted from a youtube tutorial by Julio Codes over 2 videos. Check out [video 1](https://youtu.be/T7PnWnTgusc) for layout and [video 2](https://youtu.be/inCl01EJkts) for AOS animation.
+* AOS animations is an open source css framework. Please check it out [here](https://bit.ly/2EDiVLl).
+* The color palette was curated by [Color Palettes](https://colorpalettes.net/color-palette-971/).
 
 ## License
 
