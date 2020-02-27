@@ -456,7 +456,7 @@ li{
     content: '';
     box-shadow: 0 0 0 4px #fecb24;
     border-radius: 100%;
-    left: -1rem;
+    left: -8rem;
     height: 1.5rem;
     width: 1.5rem;
     background-color: #005f75;
@@ -466,6 +466,10 @@ li{
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
+}
+
+.resume-link {
+    font-size: 3rem;
 }
 
 #pdf {
