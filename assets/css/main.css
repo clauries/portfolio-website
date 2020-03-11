@@ -272,24 +272,6 @@ li{
 .about-details {
     flex: 1;
 }
-.social-media {
-    margin-top: 5rem;
-}
-
-.social-media i {
-    font-size: 5rem;
-    transition: color 650ms;
-}
-
-.fa-github-square:hover {
-    color: #dd7901;
-}
-
-.fa-linkedin:hover {
-    color: #dd7901;
-}
-
-
 /* End About */
 
 
@@ -484,6 +466,27 @@ li{
     background-color: #005f75;
 }
 
+#contact-heading {
+    margin-bottom: 5rem;
+}
+
+.social-media {
+    margin-top: 5rem;
+}
+
+.social-media i {
+    font-size: 5rem;
+    transition: color 650ms;
+}
+
+.fa-github-square:hover {
+    color: #dd7901;
+}
+
+.fa-linkedin:hover {
+    color: #dd7901;
+}
+
 form {
     width: 70%;
     margin: 0 auto;
@@ -612,14 +615,6 @@ input[type="submit"]:hover {
         font-size: 3rem;
     }
 
-    .about-details .nav-list {
-        flex-direction: intitial;
-    }
-
-    .about-details li {
-        margin: 0 2rem;
-    }
-
     .icon-container {
         width: 7rem;
         height: 7rem;
@@ -640,6 +635,15 @@ input[type="submit"]:hover {
     .timeline .date::after {
         left: -5.9rem;
     }
+
+    .social-media .nav-list {
+        flex-direction: row;
+    }
+
+    .social-media li {
+        margin: 0 2rem;
+    }
+
 
 
 }
