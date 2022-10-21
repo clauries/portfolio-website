@@ -5,7 +5,7 @@ An new layout format of my portfolio utilizing the AOS css animation framework. 
 
 <img src="./assets/imgs/portfolio.png" alt="Webpage Image"/>
 
-### [Deployed Webpage](https://clauries.github.io/portfolio-website/)
+### [Deployed Webpage](https://laurieschroeder.net)
 
 
 ## Concept
